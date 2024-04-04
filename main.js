@@ -9,3 +9,5 @@ function greet(params) {
 }
 
 console.log("asdasdasd");
+console.log("asdasdasd");
+console.log("asdasdasd");
